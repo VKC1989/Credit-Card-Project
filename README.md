@@ -1,2 +1,2 @@
-# Credit-Card-Project
+# Prediction of Credit-Card-Fraud Project
 Capstone Project Data Scientist Course
